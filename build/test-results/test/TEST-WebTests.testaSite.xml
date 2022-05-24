@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WebTests.testaSite" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-24T13:45:38" hostname="DESKTOP-2AJ68PO" time="36.667">
+  <properties/>
+  <testcase name="testaLoginOk" classname="WebTests.testaSite" time="36.667"/>
+  <system-out><![CDATA[1 - Acessou o site
+dataHora2022-05-24 10-45
+2 - Entrou com email e senha
+dataHora2022-05-24 10-45
+dataHora2022-05-24 10-45
+Confirmou o nome do usuario como Gustavo Silva
+dataHora2022-05-24 10-45
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
